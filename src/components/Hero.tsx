@@ -8,7 +8,7 @@ const Hero = () => {
 
   return (
     <section className="relative min-h-screen bg-gradient-primary flex items-center overflow-hidden">
-      {/* Decorative elements */}
+      {/* Decorative elementss */}
       <div className="absolute top-20 left-10 text-accent-yellow text-6xl">✦</div>
       <div className="absolute top-40 left-20 text-accent-yellow text-4xl">✦</div>
       <div className="absolute bottom-40 right-20 text-accent-yellow text-6xl">✦</div>
